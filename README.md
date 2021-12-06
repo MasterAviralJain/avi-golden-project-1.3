@@ -1,2 +1,2 @@
-# avi-golden-project-1.3
-vsc
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
